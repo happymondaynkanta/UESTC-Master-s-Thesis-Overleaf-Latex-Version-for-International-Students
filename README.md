@@ -87,3 +87,19 @@ The picture illustrates the change that was made. The previous source file was r
 
 
 ![thesis-uestc-new](https://user-images.githubusercontent.com/63404097/159205952-c4a9817b-49b4-4ed7-9fed-743ddbd13f28.PNG)
+
+
+
+### Result of the reference Style using the old source file ('thesis-uestc-old.bst')
+
+![reference 1](https://user-images.githubusercontent.com/63404097/159206675-13c47afe-cbda-4bea-a7ee-00b7fe065d2a.PNG)
+
+
+
+### Result of the reference Style using the new source file ('thesis-uestc.bst')
+
+![reference 2](https://user-images.githubusercontent.com/63404097/159206239-6599d17a-39a3-48b9-806a-90a3a8b74dd3.PNG)
+
+
+
+
