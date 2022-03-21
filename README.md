@@ -24,7 +24,7 @@ picture showing how the contents are organized
 # 2022 UESTC Thesis/Dissertation New Format
 
 In 20202, UESTC made few changes to the Thesis and Dissertation format. These changes are mainly on the sytle of the Table and the Reference style.
-I have provided the code to correctly effect the new style of the Table.  
+I have provided the code to correctly effect the new style of the Table and I have also included a new source file named "thesis-uestc.bst" to handle the new changes to the reference format.  
 
 ## Example 1 of the new Table style
 
@@ -80,3 +80,10 @@ DeepPneumonia \citep{42} &  90.72   & 91.20   & 90.78    & 90.06     & 91.80  & 
 
 ![new-table-2](https://user-images.githubusercontent.com/63404097/159204439-5d8010b4-32cf-4d2e-b21e-5e0799b7be4f.PNG)
 
+
+###  The changes made to handle the new reference format
+
+The picture illustrates the change that was made. The previous source file was renamed to 'thesis-uestc-old.bst' and the new source file is named "thesis-uestc.bst"
+
+
+![thesis-uestc-new](https://user-images.githubusercontent.com/63404097/159205952-c4a9817b-49b4-4ed7-9fed-743ddbd13f28.PNG)
